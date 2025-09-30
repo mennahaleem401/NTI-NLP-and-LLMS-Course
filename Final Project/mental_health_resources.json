@@ -1,0 +1,62 @@
+[
+  {
+    "Category":"Positive Psychology",
+    "Title":"Greater Good in Action",
+    "Description":"Science-based practices for gratitude, relationships, and happiness.",
+    "Link":"https:\/\/ggia.berkeley.edu\/"
+  },
+  {
+    "Category":"Positive Psychology",
+    "Title":"VIA Character Strengths",
+    "Description":"Discover and apply your personal character strengths for confidence and growth.",
+    "Link":"https:\/\/www.viacharacter.org\/"
+  },
+  {
+    "Category":"CBT & Self-Help",
+    "Title":"CCI Self-Help Workbooks",
+    "Description":"Free CBT-based workbooks for anxiety, depression, and self-esteem.",
+    "Link":"https:\/\/www.cci.health.wa.gov.au\/Resources\/Looking-After-Yourself"
+  },
+  {
+    "Category":"Mindfulness",
+    "Title":"Free MBSR Resources",
+    "Description":"Mindfulness-Based Stress Reduction exercises and free guided audios.",
+    "Link":"https:\/\/palousemindfulness.com\/"
+  },
+  {
+    "Category":"Youth Mental Health",
+    "Title":"Mind UK Self-Help",
+    "Description":"Practical tips for confidence, mood improvement, and coping.",
+    "Link":"https:\/\/www.mind.org.uk\/information-support\/tips-for-everyday-living\/"
+  },
+  {
+    "Category":"Youth Mental Health",
+    "Title":"Mental Health Foundation",
+    "Description":"Guides on daily mental wellbeing, gratitude, and sleep improvement.",
+    "Link":"https:\/\/www.mentalhealth.org.uk\/explore-mental-health\/publications"
+  },
+  {
+    "Category":"General Mental Health",
+    "Title":"Wellness In Mind FAQs",
+    "Description":"Frequently asked questions about mental health basics and support options.",
+    "Link":"https:\/\/www.wellnessinmind.org\/frequently-asked-questions\/"
+  },
+  {
+    "Category":"General Mental Health",
+    "Title":"PlanStreet FAQs",
+    "Description":"Common questions and answers about mental health and disorders.",
+    "Link":"https:\/\/www.planstreet.com\/frequently-asked-questions-about-mental-health"
+  },
+  {
+    "Category":"Treatment & Support",
+    "Title":"OSF HealthCare Behavioral & Mental Health FAQs",
+    "Description":"Answers to common questions about treatment, referrals, and duration of therapy.",
+    "Link":"https:\/\/www.osfhealthcare.org\/services\/specialties\/mental-health\/resources\/faqs"
+  },
+  {
+    "Category":"Therapies & Methods",
+    "Title":"Big Health Mental Health FAQs",
+    "Description":"Explains concepts like CBT, talk therapy, and digital mental health solutions.",
+    "Link":"https:\/\/www.bighealth.com\/lp\/mental-health-faqs"
+  }
+]
